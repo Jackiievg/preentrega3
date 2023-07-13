@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: rgb(101, 101, 99);
+}
+
+.fa-brands {
+    height: 4vh;
+    width: 2%;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 98%;
+}
+
+.body {
+    background-color: rgb(253, 245, 248);
+}
+
+.carousel-inner {
+    width: 30%;
+    height: auto;
+    margin: 0 auto;
+    padding: 0 0%;
+}
+
+.about {
+    width: 30%;
+    height: auto;
+    margin: 0 auto;
+    padding: 0 0%;
+}
+
+.nleft {
+    background-image: url(multimedia/Foto\ para\ el\ About.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.ncenter {
+    display: block;
+    align-items: center;
+    text-align: center;
+}
+
+.item1 {
+    background-image: url(multimedia/clients/oldi/1.1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    border: 4px solid rgb(199, 195, 196);
+}
+
+.item2 {
+    background-image: url(multimedia/clients/oldi/2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    border: 4px solid rgb(199, 195, 196);
+}
+
+.item3 {
+    background-image: url(multimedia/clients/oldi/6.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    border: 4px solid rgb(199, 195, 196);
+}
+
+.item4 {
+    background-image: url(multimedia/clients/oldi/DSC00039.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    border: 4px solid rgb(199, 195, 196);
+}
+
+.item5 {
+    background-image: url(multimedia/clients/dizoocco/129.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    border: 4px solid rgb(199, 195, 196);
+}
+
+.item6 {
+    background-image: url(multimedia/clients/dizoocco/Naif\ 448.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    border: 4px solid rgb(199, 195, 196);
+}
+
+.item7 {
+    background-image: url(multimedia/clients/dizoocco/Naif\ 585.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    border: 4px solid rgb(199, 195, 196);
+    }
+
+.item8 {
+    background-image: url(multimedia/clients/dizoocco/Naif\ 786.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    border: 4px solid rgb(199, 195, 196);
+}
+
+.item9 {
+    background-image: url(multimedia/clients/vakiano/2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    border: 4px solid rgb(199, 195, 196);
+}
+
+.item10 {
+    background-image: url(multimedia/clients/vakiano/4.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    border: 4px solid rgb(199, 195, 196);
+}
+
+.item11 {
+    background-image: url(multimedia/clients/vakiano/5.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    border: 4px solid rgb(199, 195, 196);
+}
+
+.item12 {
+    background-image: url(multimedia/clients/vakiano/6.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    border: 4px solid rgb(199, 195, 196);
+}
+
+.text-center {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer {
+    display: block;
+    align-items: center;
+    text-align: center;
+}/*# sourceMappingURL=style.css.map */
